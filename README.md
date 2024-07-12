@@ -33,8 +33,8 @@ Recommendation Systems This is a workshop on using Machine Learning and Deep Lea
 2. NMSLib - kNN methods 
 3. FAISS - Similarity search and clustering 
 
-## Algorithms &amp; 
-1. Approaches Collaborative Filtering for Implicit Feedback Datasets
+## Algorithms &amp; Approaches
+1. Collaborative Filtering for Implicit Feedback Datasets
 2. Bayesian Personalised Ranking for Implicit Data
 3. Logistic Matrix Factorisation
 4. Neural Network Matrix Factorisation
